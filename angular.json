@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "angular-chat-app"
+    }
+  },
+  "defaultProject": "angular-chat-app",
+  "cli": {
+    "analytics": "164f1566-8378-4884-9c52-253aa9e2d424"
+  }
 }
